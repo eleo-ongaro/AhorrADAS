@@ -1,0 +1,62 @@
+html {
+  background-color: #f7f7f7;
+}
+/* body{
+    
+    
+
+}  */
+h2 {
+  margin-bottom: 0 !important;
+}
+
+img {
+  width: 50%;
+}
+.navbar-item {
+  height: 10vh;
+}
+
+/* VER QUE PASA CON EL LOGO Q NO SE PUEDE ESTIRAR, ALGO LO RESTRINGE */
+.logo-ahorrada {
+  width: 10vh;
+  height: 20vh;
+  padding: 0;
+  margin: 0;
+}
+
+
+/*
+.card {
+    background-color: white;
+}
+
+.content{
+    background-color: aquamarine;
+    
+}
+
+.balance {
+    background-color: red;
+
+    
+}
+
+
+.filtros {
+    background-color: rgb(109, 68, 185);
+    
+}
+ */
+
+/* .filtro-balance{
+    display: none;
+} */
+/* .operaciones{
+    height: 80vh;
+    
+} */
+/* 
+.card-categorias, .card-reportes{
+    display: none;
+} */

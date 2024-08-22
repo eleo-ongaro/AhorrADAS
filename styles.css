@@ -1,11 +1,13 @@
 html {
   background-color: #f7f7f7;
 }
-/* body{
-    
-    
 
-}  */
+/* .navbar-brand {
+  flex-wrap: wrap;
+} */
+/* h1{
+  max-width: max-content !important;
+} */
 h2 {
   margin-bottom: 0 !important;
 }
@@ -18,11 +20,8 @@ img {
 }
 
 /* VER QUE PASA CON EL LOGO Q NO SE PUEDE ESTIRAR, ALGO LO RESTRINGE */
-.logo-ahorrada {
-  width: 10vh;
-  height: 20vh;
-  padding: 0;
-  margin: 0;
+.logo-ahorrada  {
+  width: 35% !important; 
 }
 
 
